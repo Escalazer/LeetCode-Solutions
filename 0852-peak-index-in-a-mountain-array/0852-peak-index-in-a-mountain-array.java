@@ -3,17 +3,19 @@ class Solution {
         int l = 0;
         int h = arr.length - 1;
         int mid = 0;
+        int result = -1;
 
-        while (l < h) {
+        while (l <= h) {
             mid = (l + h) / 2;
 
             if (arr[mid] < arr[mid + 1]) {
                 l = mid + 1;
             }
-            else if (arr[mid] >= arr[mid + 1]) {
-                h = mid;
+            else if (arr[mid] > arr[mid + 1]) {
+                result = mid;
+                h = mid - 1;
             }
         }
-        return h;
+        return result;
     }
 }
