@@ -4,10 +4,6 @@ class Solution {
         int l = 0;
         int h = nums.length - 1;
 
-        if (nums[l] == target) return l;
-
-        if (nums[h] == target) return h;
-
         while (l <= h) {
             guess = (l + h) / 2;
 
