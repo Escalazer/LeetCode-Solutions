@@ -13,7 +13,7 @@ class Solution {
             else if (nums[guess] > nums[n - 1]) {
                 if (nums[guess] < target) l = guess + 1;
                 else {
-                    if (nums[0] > target) l = guess + 1;
+                    if (nums[l] > target) l = guess + 1;
                     else h = guess - 1;
                 }
             }
@@ -21,7 +21,7 @@ class Solution {
             else {
                 if (nums[guess] > target) h = guess - 1;
                 else {
-                    if (nums[n - 1] < target) h = guess - 1;
+                    if (nums[h] < target) h = guess - 1;
                     else l = guess + 1;
                 }
             }
