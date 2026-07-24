@@ -1,8 +1,8 @@
 class Solution {
     public int cankokoeat(int[] piles, int speed, int h) {
         int count = 0;
-        for (int i = 0; i < piles.length; i++) {
-            count += (piles[i] + speed - 1) / speed;
+        for (int pile : piles) {
+            count += (pile + speed - 1) / speed;
             
             if (count > h) return count;
         }
