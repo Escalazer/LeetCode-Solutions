@@ -1,13 +1,13 @@
 class Solution {
-    public boolean cankokoeat(int[] piles, int speed, int h) {
+    public int cankokoeat(int[] piles, int speed, int h) {
         int count = 0;
         for (int i = 0; i < piles.length; i++) {
             if (piles[i] % speed == 0) count += piles[i] / speed;
-            else count += (piles[i] / speed) + 1; 
-
-            if (count > h) return false;
+            else count += (piles[i] / speed) + 1;
+            
+            if (count > h) return count;
         }
-        return true;
+        return count;
     }
 
     public int minEatingSpeed(int[] piles, int h) {
@@ -20,7 +20,7 @@ class Solution {
         while (l <= r) {
             guess = (l + r) / 2;
 
-            if (cankokoeat(piles, guess, h)) {
+            if (cankokoeat(piles, guess, h) <= h) {
                 result = guess;
                 r = guess - 1;
             }
