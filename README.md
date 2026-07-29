@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Escalazer/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/Escalazer/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/Escalazer/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Escalazer/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Escalazer/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Escalazer/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Escalazer/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0977-squares-of-a-sorted-array](https://github.com/Escalazer/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Escalazer/LeetCode-Solutions/tree/master/1552-magnetic-force-between-two-balls) |
 ## Matrix
@@ -97,5 +99,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Escalazer/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0977-squares-of-a-sorted-array](https://github.com/Escalazer/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
