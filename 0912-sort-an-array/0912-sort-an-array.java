@@ -12,30 +12,27 @@ class Solution {
         merge(nums, l, mid, h);
     }
     void merge(int nums[], int l, int mid, int h) {
-        ArrayList<Integer> temp = new ArrayList<>();
+        int[] temp = new int[h - l + 1];
+        int id = 0;
         int left = l;
         int right = mid + 1;
 
         while (left <= mid && right <= h) {
             if (nums[left] <= nums[right]) {
-                temp.add(nums[left]);
-                left++;
+                temp[id++] = nums[left++];
             }
             else {
-                temp.add(nums[right]);
-                right++;
+                temp[id++] = nums[right++];
             }
         }
         while (left <= mid) {
-            temp.add(nums[left]);
-            left++;
+            temp[id++] = nums[left++];
         }
         while (right <= h) {
-            temp.add(nums[right]);
-            right++;
+            temp[id++] = nums[right++];
         }
         for (int i = l; i <= h; i++) {
-            nums[i] = temp.get(i - l);
+            nums[i] = temp[i - l];
         }
     }
 }
