@@ -5,7 +5,7 @@ class Solution {
     }
     void ms(int[] nums, int l, int h) {
         int mid = -1;
-        if (l >= h) return;
+        if (l == h) return;
         mid = (l + h) / 2;
         ms(nums, l , mid);
         ms(nums, mid + 1, h);
