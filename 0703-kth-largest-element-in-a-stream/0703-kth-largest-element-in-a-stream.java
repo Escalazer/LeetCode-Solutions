@@ -13,9 +13,13 @@ class KthLargest {
     }
     
     public int add(int val) {
-        pq.add(val);
-        if (pq.size() > k) pq.poll();
-
+        if (pq.size() < k) {
+            pq.offer(val);
+        }
+        else if (val > pq.peek()) {
+            pq.poll();
+            pq.offer(val);
+        }
         return pq.peek();
     }
 }
