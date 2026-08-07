@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/Escalazer/LeetCode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Escalazer/LeetCode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/Escalazer/LeetCode-Solutions/tree/master/0912-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/Escalazer/LeetCode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/Escalazer/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Escalazer/LeetCode-Solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Escalazer/LeetCode-Solutions/tree/master/1552-magnetic-force-between-two-balls) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Escalazer/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0445-add-two-numbers-ii](https://github.com/Escalazer/LeetCode-Solutions/tree/master/0445-add-two-numbers-ii) |
+| [0973-k-closest-points-to-origin](https://github.com/Escalazer/LeetCode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 ## Recursion
 |  |
 | ------- |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Escalazer/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/Escalazer/LeetCode-Solutions/tree/master/0692-top-k-frequent-words) |
 | [0912-sort-an-array](https://github.com/Escalazer/LeetCode-Solutions/tree/master/0912-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/Escalazer/LeetCode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/Escalazer/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Escalazer/LeetCode-Solutions/tree/master/1552-magnetic-force-between-two-balls) |
 ## Matrix
@@ -113,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Escalazer/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Escalazer/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/Escalazer/LeetCode-Solutions/tree/master/0912-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/Escalazer/LeetCode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 ## Two Pointers
 |  |
 | ------- |
@@ -127,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/Escalazer/LeetCode-Solutions/tree/master/0692-top-k-frequent-words) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Escalazer/LeetCode-Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0912-sort-an-array](https://github.com/Escalazer/LeetCode-Solutions/tree/master/0912-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/Escalazer/LeetCode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 ## Merge Sort
 |  |
 | ------- |
@@ -153,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Escalazer/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Escalazer/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/Escalazer/LeetCode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 ## Tree
 |  |
 | ------- |
@@ -177,4 +183,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/Escalazer/LeetCode-Solutions/tree/master/0692-top-k-frequent-words) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Escalazer/LeetCode-Solutions/tree/master/0973-k-closest-points-to-origin) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Escalazer/LeetCode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
