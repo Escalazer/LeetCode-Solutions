@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0076-minimum-window-substring](https://github.com/Escalazer/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0347-top-k-frequent-elements](https://github.com/Escalazer/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0424-longest-repeating-character-replacement](https://github.com/Escalazer/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/Escalazer/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0692-top-k-frequent-words](https://github.com/Escalazer/LeetCode-Solutions/tree/master/0692-top-k-frequent-words) |
 ## Linked List
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0076-minimum-window-substring](https://github.com/Escalazer/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/Escalazer/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0424-longest-repeating-character-replacement](https://github.com/Escalazer/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Escalazer/LeetCode-Solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Prefix Sum
 |  |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/Escalazer/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
+| [0424-longest-repeating-character-replacement](https://github.com/Escalazer/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0692-top-k-frequent-words](https://github.com/Escalazer/LeetCode-Solutions/tree/master/0692-top-k-frequent-words) |
 ## Sorting
 |  |
