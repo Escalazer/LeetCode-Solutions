@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/Escalazer/LeetCode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Escalazer/LeetCode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/Escalazer/LeetCode-Solutions/tree/master/0912-sort-an-array) |
+| [0930-binary-subarrays-with-sum](https://github.com/Escalazer/LeetCode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0973-k-closest-points-to-origin](https://github.com/Escalazer/LeetCode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/Escalazer/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Escalazer/LeetCode-Solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Escalazer/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/Escalazer/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0692-top-k-frequent-words](https://github.com/Escalazer/LeetCode-Solutions/tree/master/0692-top-k-frequent-words) |
+| [0930-binary-subarrays-with-sum](https://github.com/Escalazer/LeetCode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 ## Linked List
 |  |
 | ------- |
@@ -77,12 +79,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Escalazer/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/Escalazer/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Escalazer/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0930-binary-subarrays-with-sum](https://github.com/Escalazer/LeetCode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Escalazer/LeetCode-Solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Escalazer/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/Escalazer/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
+| [0930-binary-subarrays-with-sum](https://github.com/Escalazer/LeetCode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Escalazer/LeetCode-Solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Binary Search
 |  |
