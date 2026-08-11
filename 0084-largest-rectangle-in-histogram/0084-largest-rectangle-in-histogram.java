@@ -6,19 +6,9 @@ class Solution {
         int area = 0, maxarea = 0;
 
         for (int i = 0; i < n; i++) {
-
-            if (st.isEmpty()) {
-                st.push(i);
-            }
-            else if (heights[st.peek()] <= heights[i]) {
-                st.push(i);
-            }
-            while (!st.isEmpty() && heights[st.peek()] > heights[i]) {
+            while (!st.isEmpty() && heights[i] < heights[st.peek()]) {
                 int index = st.pop();
-
-                if (st.isEmpty()) pse = -1;
-                else pse = st.peek();
-
+                pse = (st.isEmpty()) ? -1 : st.peek();
                 area = heights[index] * (i - pse - 1);
                 maxarea = Math.max(maxarea, area);
             }
