@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Escalazer/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Escalazer/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Escalazer/LeetCode-Solutions/tree/master/0075-sort-colors) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Escalazer/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Escalazer/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Escalazer/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Escalazer/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Escalazer/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Escalazer/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0445-add-two-numbers-ii](https://github.com/Escalazer/LeetCode-Solutions/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/Escalazer/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Escalazer/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Escalazer/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/Escalazer/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Escalazer/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
 ## Hash Table
@@ -241,4 +244,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Escalazer/LeetCode-Solutions/tree/master/0268-missing-number) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Escalazer/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
