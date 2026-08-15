@@ -1,11 +1,11 @@
 class Solution {
     public int maximumSum(int[] arr) {
         int ans = arr[0];
-        int onedelete = Integer.MIN_VALUE;
+        int onedelete = -10000000;
         int nodelete = arr[0];
 
         for (int i = 1; i < arr.length; i++) {
-            int newonedelete = Math.max(onedelete == Integer.MIN_VALUE ? Integer.MIN_VALUE : onedelete + arr[i], nodelete);
+            int newonedelete = Math.max(onedelete + arr[i], nodelete);
 
             onedelete = newonedelete;
 
