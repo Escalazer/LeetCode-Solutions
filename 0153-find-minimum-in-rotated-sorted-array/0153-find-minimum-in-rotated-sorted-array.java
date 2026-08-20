@@ -3,7 +3,7 @@ class Solution {
         int n = nums.length;
         int l = 0;
         int h = n - 1;
-        int result = Integer.MIN_VALUE;
+        int result = Integer.MAX_VALUE;
         int guess = 0;
 
         while (l <= h) {
@@ -12,10 +12,10 @@ class Solution {
                 l = guess + 1;
             }
             else {
-                result = guess;
+                result = Math.min(result, nums[guess]);
                 h = guess - 1;
             }
         }
-        return nums[result];
+        return result;
     }
 }
