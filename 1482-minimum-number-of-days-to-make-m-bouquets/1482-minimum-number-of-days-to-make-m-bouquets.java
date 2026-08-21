@@ -23,7 +23,7 @@ class Solution {
         if (bloomDay.length < (m * k)) return -1;
 
         int max = Integer.MIN_VALUE;
-        int min = Integer.MIN_VALUE;
+        int min = Integer.MAX_VALUE;
         for (int bloom : bloomDay) {
             max = Math.max(max, bloom);
             min = Math.min(min, bloom);
