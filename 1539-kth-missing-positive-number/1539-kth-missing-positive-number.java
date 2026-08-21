@@ -16,5 +16,5 @@ class Solution {
         //arr[r] + k - (arr[r] - r - 1)
         //arr[r] + k - arr[r] + r + 1 = r + 1 + k
         return r + 1 + k;
-    }
+    }   
 }
