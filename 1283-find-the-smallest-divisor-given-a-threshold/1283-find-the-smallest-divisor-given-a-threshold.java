@@ -2,7 +2,7 @@ class Solution {
     public boolean possible(int nums[], int threshold, int mid) {
         int count = 0;
         for (int i = 0; i < nums.length; i++) {
-            count += Math.ceil((double)nums[i] / mid);
+            count += (nums[i] + mid - 1) / mid;
             if (count > threshold)
                 return false;
         }
