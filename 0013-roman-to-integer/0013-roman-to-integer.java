@@ -8,13 +8,13 @@ class Solution {
         map.put('C', 100);
         map.put('D', 500);
         map.put('M', 1000);
-        char[] ch = s.toCharArray();
-        int num = map.get(ch[ch.length - 1]);
-        for (int i = ch.length - 2; i >= 0; i--) {
-            if (map.get(ch[i]) >= map.get(ch[i + 1]))
-                num += map.get(ch[i]);
+    
+        int num = map.get(s.charAt(s.length() - 1));
+        for (int i = s.length() - 2; i >= 0; i--) {
+            if (map.get(s.charAt(i)) >= map.get(s.charAt(i + 1)))
+                num += map.get(s.charAt(i));
             else
-                num -= map.get(ch[i]);
+                num -= map.get(s.charAt(i));
         }
         return num;
     }
