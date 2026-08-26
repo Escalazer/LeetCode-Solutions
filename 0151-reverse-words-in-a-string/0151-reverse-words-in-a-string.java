@@ -2,7 +2,7 @@ class Solution {
     public String reverseWords(String s) {
         StringBuilder a = new StringBuilder(s);
         a = a.reverse();
-        String ans = "";
+        StringBuilder ans = new StringBuilder();
         int i = 0;
         while (i < a.length()) {
             StringBuilder temp = new StringBuilder();
@@ -11,8 +11,10 @@ class Solution {
                 i++;
             }
             temp.reverse();
-            if (temp.length() > 0)
-                ans += " " + temp;
+            if (temp.length() > 0) {
+                ans.append(" ");
+                ans.append(temp);
+            }
 
             i++;
         }
