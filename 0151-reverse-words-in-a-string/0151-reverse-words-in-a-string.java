@@ -16,7 +16,6 @@ class Solution {
 
             i++;
         }
-        ans = ans.trim();
-        return ans;
+        return ans.substring(1);
     }
 }
