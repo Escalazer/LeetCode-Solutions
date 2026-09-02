@@ -8,9 +8,6 @@ class Solution {
             if (num % 2 == 1)
                 oddval = true;
         }
-        if (oddval == true && minval % 2 == 0)
-            return false;
-        else
-            return true;
+        return !(oddval && minval % 2 == 0);
     }
 }
