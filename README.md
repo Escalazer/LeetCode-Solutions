@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2643-row-with-maximum-ones](https://github.com/Escalazer/LeetCode-Solutions/tree/master/2643-row-with-maximum-ones) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Escalazer/LeetCode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Escalazer/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Escalazer/LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Stack
 |  |
 | ------- |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/Escalazer/LeetCode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Escalazer/LeetCode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Escalazer/LeetCode-Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Escalazer/LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Recursion
 |  |
 | ------- |
