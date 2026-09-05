@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Escalazer/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
+| [0024-swap-nodes-in-pairs](https://github.com/Escalazer/LeetCode-Solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0148-sort-list](https://github.com/Escalazer/LeetCode-Solutions/tree/master/0148-sort-list) |
 | [0445-add-two-numbers-ii](https://github.com/Escalazer/LeetCode-Solutions/tree/master/0445-add-two-numbers-ii) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Escalazer/LeetCode-Solutions/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Escalazer/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
+| [0024-swap-nodes-in-pairs](https://github.com/Escalazer/LeetCode-Solutions/tree/master/0024-swap-nodes-in-pairs) |
 ## Simulation
 |  |
 | ------- |
