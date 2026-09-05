@@ -5,7 +5,6 @@ class Solution {
         int m = nums1.length;
         int n = nums2.length;
         int[] ans = new int[m];
-        int[] nge = new int[n];
 
         for (int j = n-1; j >= 0; j--) {
             while (!st.empty() && nums2[j] >= st.peek()) st.pop();
