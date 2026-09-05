@@ -10,10 +10,7 @@ class Solution {
         for (int j = n-1; j >= 0; j--) {
             while (!st.empty() && nums2[j] >= st.peek()) st.pop();
 
-            if (st.empty()) nge[j] = -1;
-            else nge[j] = st.peek();
-
-            map.put(nums2[j], nge[j]);
+            map.put(nums2[j], st.empty() ? -1 : st.peek());
             
             st.push(nums2[j]);
         }
