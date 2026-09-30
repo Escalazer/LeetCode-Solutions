@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1901-find-a-peak-element-ii](https://github.com/Escalazer/LeetCode-Solutions/tree/master/1901-find-a-peak-element-ii) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Escalazer/LeetCode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Escalazer/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2187-minimum-time-to-complete-trips](https://github.com/Escalazer/LeetCode-Solutions/tree/master/2187-minimum-time-to-complete-trips) |
 | [2643-row-with-maximum-ones](https://github.com/Escalazer/LeetCode-Solutions/tree/master/2643-row-with-maximum-ones) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Escalazer/LeetCode-Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Escalazer/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/Escalazer/LeetCode-Solutions/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Escalazer/LeetCode-Solutions/tree/master/1552-magnetic-force-between-two-balls) |
 | [1901-find-a-peak-element-ii](https://github.com/Escalazer/LeetCode-Solutions/tree/master/1901-find-a-peak-element-ii) |
+| [2187-minimum-time-to-complete-trips](https://github.com/Escalazer/LeetCode-Solutions/tree/master/2187-minimum-time-to-complete-trips) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Escalazer/LeetCode-Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## String
 |  |
