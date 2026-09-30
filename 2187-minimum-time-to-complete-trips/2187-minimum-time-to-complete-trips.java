@@ -20,9 +20,11 @@ class Solution {
 
     public boolean check(int[] time, long mid, int totalTrips) {
         long trips = 0;
-        for (int t : time)
+        for (int t : time) {
             trips += mid / t;
-
-        return (trips >= totalTrips);
+            if (trips >= totalTrips)
+                return true;
+        }
+        return false;
     }
 }
