@@ -9,7 +9,7 @@ class Solution {
 
         while (l <= r) {
             long mid = (l + r) / 2;
-            if (check(time, mid) >= totalTrips)
+            if (check(time, mid, totalTrips))
                 r = mid - 1;
             else
                 l = mid + 1;
@@ -18,11 +18,11 @@ class Solution {
         return l;
     }
 
-    public long check(int[] time, long mid) {
+    public boolean check(int[] time, long mid, int totalTrips) {
         long trips = 0;
         for (int t : time)
             trips += mid / t;
 
-        return trips;
+        return (trips >= totalTrips);
     }
 }
