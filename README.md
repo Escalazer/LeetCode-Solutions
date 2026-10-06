@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/Escalazer/LeetCode-Solutions/tree/master/0836-rectangle-overlap) |
 | [0973-k-closest-points-to-origin](https://github.com/Escalazer/LeetCode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Escalazer/LeetCode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
+| [2544-alternating-digit-sum](https://github.com/Escalazer/LeetCode-Solutions/tree/master/2544-alternating-digit-sum) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Escalazer/LeetCode-Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/Escalazer/LeetCode-Solutions/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/Escalazer/LeetCode-Solutions/tree/master/3871-count-commas-in-range-ii) |
